@@ -45,7 +45,7 @@ The main tables used in the Power BI data model are:
 
 ### Page 2 – Geographic Performance Analysis
 
-![Geographic Analysis](dashboard_page2.png)
+![Geographic Analysis](geographic_page2.png)
 
 
 ## 📌 Key KPIs
