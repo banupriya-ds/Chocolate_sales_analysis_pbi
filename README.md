@@ -41,11 +41,11 @@ The main tables used in the Power BI data model are:
 
 ### Page 1 – Executive Dashboard
 
-![Power BI Dashboard](screenshots/dashboard_page1.png)
+![Power BI Dashboard](dashboard_page1.png)
 
 ### Page 2 – Geographic Performance Analysis
 
-![Geographic Analysis](screenshots/dashboard_page2.png)
+![Geographic Analysis](dashboard_page2.png)
 
 
 ## 📌 Key KPIs
